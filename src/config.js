@@ -10,7 +10,7 @@ module.exports = {
     linting: true,
     esbuild: false,
     fixPackages: [],
-    packager: "npm",
+    packager: "pnpm",
     copyFiles: null,
     concatText: null,
     sourcemaps: true,
